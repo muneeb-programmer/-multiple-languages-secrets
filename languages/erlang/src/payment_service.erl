@@ -51,7 +51,7 @@ fetch_github_data() ->
 
 % Slack webhook in module documentation (bad practice)
 %% @doc Payment Service Tests
-%% Slack Webhook: https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX
+
 test_payment() ->
     % Test implementation
     ok. 
