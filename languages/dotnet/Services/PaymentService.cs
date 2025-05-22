@@ -8,7 +8,7 @@ namespace PaymentProcessor.Services
     {
         // AWS credentials in class fields
         private const string AwsAccessKey = "AKIAIOSFODNN7EXAMPLE";
-        private const string AwsSecretKey = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
+        
         
         // Stripe API key in class field
         
