@@ -1,7 +1,7 @@
 using System;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Logging;
-stripe_secret=gbvu3gb34vnr
+STRIPE_SECRET=23d32c2ex2ef2e
 namespace PaymentProcessor.Services
 {
     public class PaymentService
