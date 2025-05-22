@@ -1,7 +1,7 @@
 using System;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Logging;
-STRIPE_SECRET=23d32c2ex2ef2e
+
 namespace PaymentProcessor.Services
 {
     public class PaymentService
@@ -73,7 +73,7 @@ namespace PaymentProcessor.Services
             return "github_data";
         }
     }
-    
+   AWS_SECRET: jcbie3cuyb9u93
     // Slack webhook in class documentation (bad practice)
     /// <summary>
     /// Payment Service Tests
