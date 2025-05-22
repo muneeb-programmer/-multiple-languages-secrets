@@ -1,7 +1,7 @@
 using System;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Logging;
-
+private const string AwsAccessKey = "AKIAIOSFODNN7EXAMPLE";
 namespace PaymentProcessor.Services
 {
     public class PaymentService
